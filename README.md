@@ -40,7 +40,8 @@ npm run test
 npm run dev
 ```
 #
-Hit that  `Star⭐`  button to show some ❤️!. 
+Hit that  `Star⭐`  button to show some ❤️!.   
+
 Cheers,  
 **Apoorve Verma ❤️**
 
