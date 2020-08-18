@@ -41,9 +41,7 @@ npm run dev
 ```
 #
 Hit that  `Star⭐`  button to show some ❤️! 
-
 Cheers,  
-
 **Apoorve Verma ❤️**
 
 
