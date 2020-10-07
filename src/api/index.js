@@ -7,4 +7,10 @@ router.get('/', (req, res) => {
   });
 });
 
+router.get('/home', (req, res) => {
+  res.json({
+    message: 'Testing home API 😎'
+  });
+});
+
 module.exports = router;
